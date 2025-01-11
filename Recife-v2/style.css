@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapi.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapi.com/css?family=Quicksand&display=swap');
+
+* {
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Quicksand;
+}
+
+header, main, footer, nav {
+  display: flex;
+  flex-direction: row;
+}
+
+nav {
+  justify-content: center;
+  font-size: 16px;
+}
+
+nav ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav li {
+  margin: 6px;
+}
+
+.capa_fw{
+  width: 100vw;
+}
+
+main article {
+  display: flex;
+  flex-direction: column;
+}
+
+.conteudoColuna {
+  display: flex;
+  flex-direction: column;
+}
+
+.conteudoColuna p {
+  text-align: justify;
+}
+
+.conteudoLinha {
+  display: flex;
+  flex-direction: row;
+}
+
+.conteudoLinha p {
+  text-align: justify;
+}
+
+.conteudoLinha img {
+  
+}
+
+.img_mini {
+  width: 300px;
+}
+
+/*.alesq {
+  float: left;
+}
+.aldir {
+  float: right;
+}*/
