@@ -14,12 +14,12 @@ header, main, footer, nav {
   flex-direction: row;
 }
 
-nav {
+header {
   justify-content: center;
   font-size: 16px;
 }
 
-nav ul {
+header nav ul {
   list-style-type: none;
   display: flex;
   flex-direction: row;
@@ -27,46 +27,56 @@ nav ul {
   align-items: center;
 }
 
-nav li {
+header nav li {
   margin: 6px;
 }
 
 .capa_fw{
   width: 100vw;
 }
-
-main article {
+ 
+main article{
   display: flex;
   flex-direction: column;
+  gap: 30px;
+  overflow: hidden;
 }
 
-.conteudoColuna {
+main article section .conteudoColuna {
   display: flex;
   flex-direction: column;
+  gap: 10px;
 }
 
-.conteudoColuna p {
+main article section .conteudoColuna p {
   text-align: justify;
+  margin: 0 10px 0 10px;
 }
 
-.conteudoLinha {
+main article section .conteudoLinha {
   display: flex;
   flex-direction: row;
+  gap: 10px;
 }
 
-.conteudoLinha p {
+main article section .conteudoLinha p {
   text-align: justify;
+  margin: 0 10px 0 10px;
 }
 
-.conteudoLinha img {
-  
-}
-
-.img_mini {
+main article section .img_mini {
   width: 300px;
 }
 
-/*.alesq {
+main article section .conteudoGaleria {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+/* 
+.alesq {
   float: left;
 }
 .aldir {
