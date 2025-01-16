@@ -75,6 +75,19 @@ main article section .conteudoGaleria {
   flex-wrap: wrap;
 }
 
+footer {
+  gap: 50px;
+  justify-content: space-evenly;
+}
+
+footer ul {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  list-style-type: none;
+  justify-content: flex-end;
+}
+
 /* 
 .alesq {
   float: left;
