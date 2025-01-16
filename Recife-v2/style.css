@@ -1,13 +1,32 @@
 @import url('https://fonts.googleapi.com/css?family=Roboto&display=swap');
 @import url('https://fonts.googleapi.com/css?family=Quicksand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Pinstripe:ital@0;1&display=swap');
 
 * {
   text-decoration: none;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: Quicksand;
+  font-family: "Alumni Sans Pinstripe", serif;
+  /* font-family: Roboto; */
+  font-weight: 400;
+  font-size: 2vw;
 }
+
+/*
+.alumni-sans-pinstripe-regular {
+  font-family: "Alumni Sans Pinstripe", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.alumni-sans-pinstripe-regular-italic {
+  font-family: "Alumni Sans Pinstripe", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+*/
+
 
 header, main, footer, nav {
   display: flex;
@@ -88,10 +107,14 @@ footer ul {
   justify-content: flex-end;
 }
 
-/* 
-.alesq {
-  float: left;
+h1 {
+  font-size: 4vw;
+  font-style: bold;
+  padding: 1vw 0 1vw 0;
 }
-.aldir {
-  float: right;
-}*/
+
+h2 {
+  font-size: 3vw;
+  font-style: bold;
+  padding: 1vw 0 1vw 0;
+}
