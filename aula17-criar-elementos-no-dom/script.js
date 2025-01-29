@@ -18,3 +18,17 @@ const arrayPostagens = [
     texto: "Todos conhecemos e amamos um bom churrasco, mas o que você acha de experimentar um churrasco focado em frutos do mar? Nós gostamos, experimente e nos conte o que você achou!"
   },
 ]
+
+for (let i = 0; i < arrayPostagens.length; i++) {
+  const article = document.createElement("article");
+
+  article.innerHTML =`<h3>${arrayPostagens[i].titulo}</h3>
+                      <p class="subtitulo">${arrayPostagens[i].subtitulo}</p>
+                      <div class="data">${arrayPostagens[i].data}</div>
+                      <p>${arrayPostagens[i].texto}</p>`;
+
+  console.log(article);
+
+  const main = document.querySelector("main");
+  main.appendChild(article);
+}
