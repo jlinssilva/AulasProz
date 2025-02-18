@@ -1,7 +1,7 @@
-tituloH1 = document.getElementById("titulo");
-listaUL = document.querySelector("ul");
-listaOL = document.getElementById("lista-ordenada");
-linkAncora = document.querySelector("a");
+let tituloH1 = document.getElementById("titulo");
+let listaUL = document.querySelector("ul");
+let listaOL = document.getElementById("lista-ordenada");
+let linkAncora = document.querySelector("a");
 
 tituloH1.innerText = "Modificando Elementos - DOM";
 linkAncora.innerText = "PROZ Educação";
