@@ -1,4 +1,4 @@
-CREATE DATABASE IF NOT EXISTS escola;
+CREATE DATABASE escola;
 
 USE escola;
 /*
