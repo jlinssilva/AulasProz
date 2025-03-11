@@ -26,8 +26,7 @@ insert into clientes (nome, whatsapp, datacadastro) values
 	('Tiago Melo', '(87)96677-8855','2025-03-01');
 
 
-
-
+/* função para somar todos os clientes que foram cadastrados na loja durante um dia */
 create or replace function somaClientesCadastro(datacad date)
 returns int 
 language 'plpgsql';
