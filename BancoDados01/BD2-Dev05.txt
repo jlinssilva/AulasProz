@@ -1,0 +1,9 @@
+Explique quais são os pilares da segurança de dados que devem ser seguidos para que o novo banco seja bem projetado e funcione corretamente.
+
+São três os pilares para um BD bem projetado, a saber:
+
+	1. Integridade: este pilar garante que os dados contidos no banco de dados são precisos, completos, consistentes e válidos. A integridade nos garante que os dados que estão no BD não estão corrompidos; e evita a perda ou vazamentos deles.
+
+	2. Disponibilidade: aqui garantimos que os dados estarão sempre disponíveis a quem tem autorização de usá-los; procura garantir a não interrupção do acesso aos dados.
+
+	3. Confiabilidade: garante a segurança dos dados, limitando o acesso destes a quem somente deles necessitam legalmente.  
