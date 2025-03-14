@@ -1,0 +1,36 @@
+No ano de 2022, diversas empresas sofreram tentativas de ataques cibernéticos que poderiam impactar 
+diretamente a segurança dos dados. Portanto, é recomendado que funcionários e clientes de lojas virtuais 
+sempre mantenham suas senhas de acesso atualizadas, alterando-as a cada três meses. Pensando nisso, 
+cite pelo menos três métodos para melhorar essas senhas, com foco em fortalecê-las.
+/-------------------------------------------------------------------------------------------------------/
+
+1. Evite usar a mesma senha em mais de uma conta: A prática de usar a mesma senha para várias contas 
+   e logins é muito comum, porém, pouco recomendada. Sabemos como é difícil lembrar de tantas senhas 
+   diferentes, por isso, uma dica é: pensar em uma senha padrão segura e alterar algum caractere ou alternar 
+   letras maiúsculas e minúsculas para diferenciar. 
+
+2. Evite o uso de datas comemorativas e nomes de familiares: datas, principalmente de aniversário, 
+   são dados fáceis de serem obtidos e são requeridos na maioria dos cadastros em websites. 
+   Assim como, seu nome, nome da mãe, esposa ou filho. Evite utilizar senhas com essas informações. 
+
+3. Capriche no tamanho: sabemos que ninguém gosta de senhas enormes e que possuem números e símbolos.
+   Mas esse é o mecanismo mais segura e que pode minimizar as chances de um ataque. Pense em como deve 
+   ser cada uma das senhas e adote mecanismo que possa te ajudar a definir e estabelecer uma relação na
+   sua mente entre todas elas.
+
+4. Deixe de lado as sequências do teclado: quem nunca olhou para o teclado do computador e celular e 
+   imaginou uma combinação de acordo com a disposição das letras? Acredite, essa é uma técnica muito comum
+   e que pode prejudicar a segurança no ambiente digital. Afinal, essa mesma ideia pode surgir para outras
+   pessoas, que terão facilidade para invadir as suas plataformas. Por mais que essa possa ser uma saída
+   para ter uma senha e não esquecer, esse mecanismo também é perigoso e pode ser descoberto por outros.
+
+5. Uso de senhas fortes: Uma senha forte é uma combinação de caracteres que, por ser difícil de adivinhar
+   ou decifrar, é capaz de aumentar a segurança do acesso a contas e perfis online, e proteger seus dados
+   pessoais na internet. O motivo por que senhas fortes são tão importantes é que elas evitam os maiores 
+   riscos causados pelos códigos fracos. Ao usar uma combinação de caracteres muito simples e fácil de 
+   deduzir, os usuários se expõem a ameaças.
+
+   Fontes: 
+   1. https://corpia.com.br/dicas-de-como-melhorar-a-protecao-das-senhas/
+   2. https://www.hostdime.com.br/9-dicas-praticas-para-melhorar-a-seguranca-das-suas-senhas/
+   3. https://nordvpn.com/pt-br/blog/senhas-fortes/
